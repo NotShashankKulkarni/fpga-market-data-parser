@@ -46,3 +46,12 @@ Waveform-level debugging is performed using GTKWave to validate:
 
 ---
 
+## Status
+
+This project is under active development. The current focus is on
+establishing a clean streaming pipeline and validating parsing logic
+under realistic traffic patterns.
+
+The full RTL implementation, testbenches, and supporting artifacts
+will be uploaded once a major functional milestone of the project
+is completed.
